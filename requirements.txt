@@ -1,5 +1,5 @@
 streamlit
-tensorflow
+tensorflow=2.10,<2.20
 yfinance
 scikit-learn
 joblib
